@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">My Workouts</string>
+    <string name="my_trainings">Mes entrainements</string>
+    <string name="my_exercises">Mes exercises</string>
+    <string name="chronometer">Chronomètre</string>
+    <string name="calendar">Calendrier</string>
+    <string name="no_training">Aucun entrainement</string>
+    <string name="no_exercise">Aucun exercice</string>
+    <string name="training_example">Entrainement exemple</string>
+    <string name="exercise_example">Exercice exemple</string>
+    <string name="repetitions">Répétitions</string>
+    <string name="weight">Poids</string>
+    <string name="rest_time">Repos</string>
+    <string name="serial">Série</string>
+    <string name="exercise_name">Nom de l\'exercice</string>
+    <string name="serial_number">Nombre de séries</string>
+    <string name="identical_serial">Séries identiques</string>
+    <string name="yes">Oui</string>
+    <string name="no">Non</string>
+</resources>

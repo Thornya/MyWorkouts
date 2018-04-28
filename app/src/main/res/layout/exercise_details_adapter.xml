@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center_horizontal"
+    android:orientation="horizontal">
+
+    <TextView
+        android:id="@+id/exercise__detail_repetitions"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="5dp"
+        android:text="@string/repetitions"
+        android:textSize="18sp"
+        android:layout_weight="33.33"
+        android:textAlignment="center"/>
+
+    <TextView
+        android:id="@+id/exercise__detail_poids"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="5dp"
+        android:text="@string/weight"
+        android:textSize="18sp"
+        android:layout_weight="33.33"
+        android:textAlignment="center"/>
+
+    <TextView
+        android:id="@+id/exercise__detail_repos"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="5dp"
+        android:text="@string/rest_time"
+        android:textSize="18sp"
+        android:layout_weight="33.33"
+        android:textAlignment="center"/>
+</LinearLayout>

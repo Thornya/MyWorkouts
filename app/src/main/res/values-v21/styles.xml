@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="MyAppTheme.NoActionBar" parent="MyAppTheme">
+        <item name="android:statusBarColor">@color/green_dark</item>
+    </style>
+
+</resources>
